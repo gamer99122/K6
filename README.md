@@ -59,3 +59,6 @@ bench.bat
 1. 在測試環境執行
 2. 伺服器資源充足
 3. 目標 API: `http://localhost:8089/api/OpdRegRoom?limit=10`
+
+## 筆記整理
+- Claude AI 協助整理
